@@ -1,0 +1,29 @@
+# Python Task 4 – HackerRank Coding Practice
+
+This folder contains solutions to 20 Python practice problems from HackerRank completed as part of the internship task.
+
+## Problems Covered
+1. Python If-Else
+2. Arithmetic Operators
+3. Python Division
+4. Loops
+5. Print Function
+6. Find the Runner-Up Score!
+7. String Split and Join
+8. What's Your Name?
+9. Mutations
+10. Find a String
+11. String Validators
+12. Introduction to Sets
+13. Symmetric Difference
+14. Set .add()
+15. Word Order
+16. Nested Lists
+17. Finding the Percentage
+18. Lists
+19. Collections.Counter()
+20. No Idea!
+
+Each solution is saved in a separate Python file named `problem1.py` through `problem20.py`.
+
+Completed as part of the Python internship tasks.
